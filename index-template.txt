@@ -1,0 +1,11 @@
+Template for an AsciiDoc-driven Webpage
+=======================================
+
+Write your document here using the rich
+AsciiDoc syntax:
+http://asciidoc.org./asciidoc.css-embedded.html
+
+
+
+This is the edit link:
+link:edit.php[Edit]  
